@@ -23,5 +23,5 @@
 - [DB-Normalizer](https://normalizer.db.in.tum.de/)
 - [Transaction-Tool](https://transactions.db.in.tum.de/)
 - [Universitätsschema als PDF](Universitaetsschema.pdf)
-- 
+
 ![QR-Code zum Repository](assets/repository-qr.png)
