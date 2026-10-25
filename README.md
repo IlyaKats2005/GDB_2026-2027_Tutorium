@@ -13,6 +13,7 @@
 ## Folien
 
 - [Woche 1: Relationale Algebra](folien/Woche_1_Relationale_Algebra.pptx)
+- [Woche 2: ER-Modell und Kardinalitäten](folien/Woche_2_ER_Modell_Kardinalitaeten.pptx)
 
 ## Nützliche Links
 
