@@ -15,6 +15,7 @@
 - [Woche 1: Relationale Algebra](folien/Woche_1_Relationale_Algebra.pptx)
 - [Woche 2: ER-Modell und Kardinalitäten](folien/Woche_2_ER_Modell_Kardinalitaeten.pptx)
 - [Woche 3: Tupelkalkül und Domänenkalkül](folien/Woche_3_Tupelkalkuel_Domaenenkalkuel.pptx)
+- [Woche 4: SQL-Grundlagen](folien/Woche_4_SQL_Grundlagen.pptx)
 
 ## Nützliche Links
 
